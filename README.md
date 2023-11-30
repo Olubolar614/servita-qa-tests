@@ -41,7 +41,7 @@ eg. "npx playwright test tests/bookingTests.spec.ts"
 ```bash
 npm run test:reporter // Use this command to run and view tests in a browser
 npm run open:allure-report // Not working
-[Please note, html report (playwright-report folder > index html) is automatically after every test run]
+[Please note, html report (playwright-report folder > index html) is automatically generated after every test run]
 ```
 
 ## Docker 
